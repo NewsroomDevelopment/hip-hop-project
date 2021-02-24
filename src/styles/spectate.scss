@@ -604,11 +604,38 @@ header {
   max-width: 600px;
 }
 
+.width-left, .width-right {
+  max-width: 25vw;
+  display:inline-block;
+  margin-top:0;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.width-left {
+  margin-left:24vw;
+}
+
+
 // full-width image --> full-bleed image
 @media (max-width: 767px) {
   .image {
     padding: 0 $gbody-padding;
   }
+
+  .width-left, .width-right {
+    padding: 0 0;
+    max-width: 45vw;
+    display:inline-block;
+    margin-top:0;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
+  .width-left {
+    margin-left:5vw;
+  }
+
 }
 
 .graphic {
