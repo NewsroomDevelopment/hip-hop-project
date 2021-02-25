@@ -136,7 +136,7 @@ b {
   line-height: 1.3;
   max-width: 1300px;
   margin: 7px auto 60px;
-
+  text-align:right;
   a {
     color: #888;
   }
@@ -560,6 +560,7 @@ header {
 
   .image-credit {
     color: #999;
+
   }
 }
 
@@ -605,7 +606,7 @@ header {
 }
 
 .width-left, .width-right {
-  max-width: 25vw;
+  max-width: 30vw;
   display:inline-block;
   margin-top:0;
   margin-left: auto;
@@ -613,7 +614,7 @@ header {
   text-align: center;
 }
 .width-left {
-  margin-left:24vw;
+  margin-left:19vw;
 }
 
 

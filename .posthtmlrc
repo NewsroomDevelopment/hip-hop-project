@@ -8,34 +8,34 @@
       "locals": {
         "top": [],
         "body": [],
-        "headline": "The Columbia Spectator Presents: The Hip Hop Project, a Historical Exploration into the Relationship Between Columbia University and the Rap Revolution.",
-        "date": "Feb. 21, 2021",
+        "headline": "The Hip-Hop Project: A historical exploration into the relationship between Columbia University and the rap revolution",
+        "date": "Feb. 24th, 2021",
         "byline": "Nigel Telman",
         "pages": {
-          "page_0_link": "",
+          "page_0_link": "https://www.columbiaspectator.com/arts-and-entertainment/2021/02/24/the-hip-hop-project-a-historical-exploration-into-the-relationship-between-columbia-university-and-the-rap-revolution/",
           "page_0_title": "WKCR, CTV, and the Embrace of the Underground",
           "page_0_cover_img": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/YHHNI3N3QJAINETBJ3FDGII26E.jpg",
-          "page_0_cover_caption": "Run-DMC rehearse inside the CTV studio / Courtesy of Ovid Santoro",
+          "page_0_cover_caption": "Run-DMC rehearses inside the CTV studio / Courtesy of Ovid Santoro",
           "page_0_heading": "Part 1: The Rise of the Old School",
           "page_0_date": "",
-          "page_0_byline": "by Nigel Telman",
-          "page_1_link": "",
+          "page_0_byline": "By Nigel Telman",
+          "page_1_link": "https://www.columbiaspectator.com/arts-and-entertainment/2021/02/24/2000s-2010s-cush-academics-and-the-future-of-hip-hop/",
           "page_1_title": "2000s - 2010s: CUSH, Academics, and the Future of Hip Hop",
           "page_1_cover_img": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/3VO3EUJCJBFENGGJ3BJWAY2R7U.jpg",
-          "page_1_cover_caption": "A 2015 CUSH meeting featuring guest speaker and professional rapper Junglepussy / Courtesy of Setti Kidane and the CUSH Board",
+          "page_1_cover_caption": "A 2015 CUSH meeting featuring guest speaker and professional rapper Junglepussy / Photo bySetti Kidane., Courtesy of the CUSH Board",
           "page_1_heading": "Part 2: The Birth of the New School",
           "page_1_date": "",
-          "page_1_byline": "by Nigel Telman"
+          "page_1_byline": "By Nigel Telman"
         },
         "bodies": {
           "page_0": [
             {
               "type": "subhed",
-              "value": "Hip Hop: The Story so Far"
+              "value": "Hip-hop: the story so far"
             },
             {
               "type": "text",
-              "value": "The story of hip-hop’s official “birth” has become the stuff of legends: On Aug. 11, 1973, the Bronx’s Jamaican-born Clive Campbell, better known as DJ Kool Herc, hosted a back-to-school party at 1520 Sedgewick Ave. Spinning funk and soul jams in a darkened rec room basement, he served snacks and drinks catered by his parents. What transpired that night has been widely cited as a pinnacle moment in the history of hip-hop."
+              "value": "The story of hip-hop’s official “birth” has become the stuff of legends: On Aug. 11, 1973, the Bronx’s Jamaican-born Clive Campbell, better known as DJ Kool Herc, hosted a back-to-school party at 1520 Sedgewick Ave. Serving snacks and drinks catered by his parents, Herc spun funk and soul jams in a darkened rec room basement. What transpired that night has been widely cited as a pinnacle moment in the history of hip-hop."
             },
             {
               "type": "text",
@@ -43,11 +43,11 @@
             },
             {
               "type": "text",
-              "value": "The future of hip-hop was bright from then on. The 1980s would prove hip-hop’s mettle in cultural crossover appeal, most notably through punk rock band Blondie’s “<a href=\"https://www.youtube.com/watch?v=Sp9An5OcdE4\">Rapture</a>” and the <a href=\"https://youtu.be/4B_UYYPb-Gk?t=94\">barrier-breaking</a> collaboration between Run-DMC and Aerosmith in “<a href=\"https://open.spotify.com/track/6qUEOWqOzu1rLPUPQ1ECpx?si=H2hsQs4FTMaCgArpO3ZSMw\">Walk This Way</a>.” The ’90s would usher in the golden age of the genre, birthing legends such as Tupac Shakur, Biggie Smalls, Lauryn Hill, and Outkast onto the American music scene and showcasing the variety, ingenuity, and persistence of a genre and a people with something to say for themselves."
+              "value": "The ’80s would prove hip-hop’s mettle in cultural crossover appeal, notably through punk rock band Blondie’s “<a href=\"https://www.youtube.com/watch?v=Sp9An5OcdE4\">Rapture</a>” and the <a href=\"https://youtu.be/4B_UYYPb-Gk?t=94\">barrier-breaking</a> collaboration between Run-DMC and Aerosmith in “<a href=\"https://open.spotify.com/track/6qUEOWqOzu1rLPUPQ1ECpx?si=H2hsQs4FTMaCgArpO3ZSMw\">Walk This Way</a>.” The ’90s ushered in the golden age of hip-hop, birthing legends such as Tupac Shakur, Biggie Smalls, Lauryn Hill, and Outkast onto the American music scene and showcasing the variety, ingenuity, and persistence of a genre and a people with something to say for themselves."
             },
             {
               "type": "text",
-              "value": "By the 2000s, hip-hop’s dominance as an art form was undeniable. The decade saw an even wider array of mainstream rappers and the beginnings of some of today’s most well-recognized artists, from Lil Wayne to Drake to Nicki Minaj to Kendrick Lamar. The 2010s would see even more innovation and mainstream acceptance, culminating in Lamar’s 2018 Pulitzer Prize for his groundbreaking album “DAMN.”"
+              "value": "By the 2000s, hip-hop’s dominance as an art form was undeniable. The decade saw an even wider array of mainstream rappers and the beginnings of  today’s most well-recognized artists, from Lil Wayne to Drake to Nicki Minaj and Kendrick Lamar. The 2010s would see even more innovation and mainstream acceptance, culminating in Lamar’s 2018 Pulitzer Prize for his groundbreaking album “DAMN.”"
             },
             {
               "type": "text",
@@ -63,15 +63,19 @@
             },
             {
               "type": "text",
-              "value": "Columbia University, with its historical ties to the larger hip-hop community in New York City, witnessed this phenomenon vividly. Even as both hip-hop and Columbia’s music culture evolved, Columbia would serve as an example of the tenuous relationship between the hip-hop community and American culture. From underground outliers to dominating force to studied art form, this is hip-hop’s story at Columbia."
+              "value": "Columbia University, with its historical ties to the larger hip-hop community in New York City, witnessed this phenomenon . Even as both hip-hop and the campus’ music culture evolved, the university would serve as an example of the tenuous relationship between the hip-hop community and American culture. From underground outliers to dominating force to studied art form, this is hip-hop’s story at Columbia."
             },
             {
               "type": "text",
               "value": "_____"
             },
             {
+              "type": "subhed",
+              "value": "The 1980s to the 1990s: WKCR, CTV, and the embrace of underground hip-hop"
+            },
+            {
               "type": "text",
-              "value": "Though student-led underground music organizations like <a href=\"https://www.columbiaspectator.com/eye-lead/2018/10/31/notes-from-the-underground/\">Hi-Fi Snock Uptown, Rare Candy, and the Bacchanal committee</a> have steadily raised their profiles, their success in opening student ears to different sounds is relatively recent. Since as far back as the 1980s, the Columbia community’s musical sensibilities have steered away from the progressive and toward the comfortable."
+              "value": "Though student-led underground music organizations like <a href=\"https://www.columbiaspectator.com/eye-lead/2018/10/31/notes-from-the-underground/\">Hi-Fi Snock Uptown, Rare Candy, and the Bacchanal committee</a> have steadily raised their profiles, their success in opening student ears to different sounds is relatively recent. Since the 1980s, the Columbia community’s musical sensibilities have steered away from the progressive and toward the comfortable."
             },
             {
               "type": "text",
@@ -87,11 +91,11 @@
             },
             {
               "type": "text",
-              "value": "Hip-hop was the newest thing to hit the wider New York music scene since punk rock developed around Lower Manhattan. Before hip-hop pioneers got their music on Columbia’s campus, they had explored the five boroughs, stopping to spin records at small venues like the Police Athletic League and bigger nightclubs like Disco Fever, Danceteria, and the Roxy."
+              "value": "Hip-hop was the newest thing to hit the wider New York music scene since punk rock developed around Lower Manhattan. Before hip-hop pioneers got their music onto Columbia’s campus, they had explored the five boroughs, stopping to spin records at small venues like the Police Athletic League and bigger nightclubs like Disco Fever, the Latin Quarter, and Twilight Zone."
             },
             {
               "type": "text",
-              "value": "Though the early DJs entered New York’s wider music scene relatively easily and introduced those crowds to the burgeoning music of the Bronx, getting radio play and TV screen time was a challenge. Radio hosts either did not appreciate hip-hop or had a disregard for it, and the first music television channel, MTV, was only created in 1981. It wasn’t until 1985 that Run-DMC would get the first hip hop music video aired on MTV. However, early hip-hop artists were resourceful—after all, they were some of the same people who would reroute electricity from street lights to power their DJ equipment outdoors for block parties."
+              "value": "Though these DJs entered New York’s wider music scene relatively early and introduced the NY club scene to the burgeoning music of the Bronx, getting radio play and TV screen time was challenging. Radio hosts either did not appreciate the potential of hip-hop or disregarded it, and the first music television channel, MTV, didn’t launch until 1981. It wasn’t until 1985 that Run-DMC would get <a href=\"https://www.youtube.com/watch?v=GND7sPNwWko\">the first hip hop music video aired</a>. However, early hip-hop artists were resourceful—they were some of the same people who rerouted electricity from street lights to power their DJ equipment for block parties."
             },
             {
               "type": "text",
@@ -99,7 +103,7 @@
             },
             {
               "type": "text",
-              "value": "Santoro was one of the first Columbia students to develop relationships through WKCR with the early rappers of the 1980s. Immediately upon arriving in the city, Santoro was enamored with New York’s underground music scene; he enrolled at Columbia in the summer of 1983 and by September he was interning under WKCR’s new music director Brooke Wentz, BC ’82, Business ’88. Santoro quickly assumed the role of publicity director while hosting his own show during the station’s “Transfigured Night” time slot. The two of them, along with the 1984 station manager Julie Grau, BC ’85; her successor, Gill; and Columbia concert organizer and WKCR DJ Jim Lynch, CC ’85, were among those helping promote hip-hop and other “outlier” music genres during the ’80s."
+              "value": "Santoro was one of the first Columbia students to develop relationships through WKCR with the early rappers of the 1980s. Immediately upon arriving in the city, Santoro was enamored with New York’s underground music scene; he enrolled at Columbia in the summer of 1983 and by September he was interning under WKCR’s new music director Brooke Wentz, BC ’82, Business ’88. Santoro quickly assumed the role of publicity director while hosting his own show during the station’s “Transfigured Night” time slot. The two of them, along with the 1984 station manager Julie Grau, BC ’85; her successor, Gill; and Columbia concert organizer and WKCR DJ Jim Lynch, CC ’85, were among those helping to promote hip-hop and other “outlier” music genres during the ’80s."
             },
             {
               "type": "text",
@@ -107,7 +111,7 @@
             },
             {
               "type": "text",
-              "value": "Santoro hosted “Transfigured Night,” on Thursdays from 1 to 4 a.m. Between these hours, he and his friends at the station, including Gill, felt free to play what they wanted. Using a technique called “simultaneous broadcasting,” in which a DJ could play multiple records at a time and splice them together, they would mash up different types of music with each other, including hip-hop records."
+              "value": "Santoro hosted “Transfigured Night,” on Thursdays from 1 to 4 a.m. Between these hours, he and his friends at the station, including Gill, felt free to play what they wanted. Using a technique called “simultaneous broadcasting,” in which a DJ could play multiple records at a time and splice them together, they would mash up different types of music, including hip-hop records."
             },
             {
               "type": "text",
@@ -123,18 +127,20 @@
             },
             {
               "type": "text",
-              "value": "At the time, video content was sparse for small cable companies like Warner Cable (now Time Warner Cable), which turned to community-created shows to support their business. The environment was ripe for enterprising students to develop Columbia-related shows. Using equipment donated by alumni at the Journalism School—many of whom worked for ABC, NBC, and CBS—students like Santoro, Gill, and Lynch were able to develop their own programming and air it locally."
+              "value": "At the time, video content was sparse for small cable companies like Warner Cable (now Time Warner Cable), which turned to community-created shows to support their business. The environment was ripe for enterprising students to develop Columbia-related content. Using equipment donated by alumni from the Journalism School—many of whom worked for ABC, NBC, and CBS—students like Santoro, Gill, and Lynch were able to develop their own programming and air it locally."
             },
             {
               "type": "text",
-              "value": "“We had a Thursday night [slot] from 9 to 10 p.m. on Manhattan Cable TV [called ‘Alternate Currents’],” Santoro recalled. “I had to go up… by Baker Field to their head and deliver my tapes every week. And I’d bring up the master tape and they’d play it and then they’d replay it because they just didn’t have enough programming.”"
+              "value": "“We had a Thursday night [slot] from 9 to 10 p.m. on Manhattan Cable TV [called ‘Alternate Currents’],” Santoro recalled. “I had to go up… by Baker Field to their head [office] and deliver my tapes every week. And I’d bring up the master tape and they’d play it and then they’d replay it because they just didn’t have enough programming.”"
             },
             {
               "type": "image",
               "value": {
                 "width": "auto",
                 "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/FGJ33BUJONBV7JWCNP2P7KRHUM.jpg",
-                "credit": "Lori Traikos / Courtesy Photo"
+                "caption": "Lyor Cohen and Run-DMC in the CTV studio.",
+                "justify": "right",
+                "credit": "Photo by Lori Traikos / Courtesy of Santoro"
               }
             },
             {
@@ -143,22 +149,23 @@
             },
             {
               "type": "text",
-              "value": "“[Columbia’s campus] was like my playground when I was young,” Caz recalled."
+              "value": "“[Columbia’s campus] was like my playground when I was young,” Grandmaster Caz recalled."
             },
             {
               "type": "text",
-              "value": "Santoro’s other collaborators included Lyor Cohen, an artist manager at Rush Productions at the time, whom Santoro had met at the University of Miami in 1978, and Run-DMC, whom Cohen managed during the mid 1980s. Santoro and Lynch would bring them, along with the Cold Crush Brothers, to the studio to hang out, spin records, and rehearse. These groups were aired on “Alternate Currents” alongside the Fearless Four, Treacherous Three, and the Beastie Boys. Santoro and Lynch would plan shows with the rappers as well—Lynch organized the musical entertainment for the anti-apartheid protest of 1985, featuring the Cold Crush Brothers and Run-DMC."
+              "value": "Santoro’s other collaborators included Lyor Cohen, then an artist manager at Rush Productions whom Santoro had met at the University of Miami in 1978, and Run-DMC, whom Cohen managed during the mid 1980s. Santoro and Lynch would bring them, along with the Cold Crush Brothers, to the studio to hang out, spin records, and rehearse. These groups were aired on “Alternate Currents” alongside the Fearless Four, Treacherous Three, and the Beastie Boys. Santoro and Lynch would plan shows with the rappers as well—Lynch organized the musical entertainment for the anti-apartheid protest of 1985, featuring the Cold Crush Brothers and Run-DMC."
             },
             {
               "type": "text",
-              "value": "“I think it brought up a little awareness [to] hip hop and a little bit of awareness of us … to a different audience,” Caz said of the concert."
+              "value": "“I think it brought up a little awareness [to] hip hop and a little bit of awareness of us … to a different audience,” Grandmaster Caz said of the concert."
             },
             {
               "type": "image",
               "value": {
                 "width": "left",
                 "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/7E3SYNFV25GDXOPTKXGY6HC5SQ.jpg",
-                "credit": "Divonne Jarecki / Spectator Archives"
+                "caption": "The Cold Crush Brothers rock the mic at the anti-apartheid protest.",
+                "credit": "Photo by Divonne Jarecki / Spectator Archives"
               }
             },
             {
@@ -166,20 +173,21 @@
               "value": {
                 "width": "right",
                 "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/JXVPTEVJVBF35BKTR6LKRMPPZE.jpg",
-                "credit": "Lori Traikos / Courtesy Photo"
+                "caption": "Santoro, Cohen, and Run-DMC by Hamilton Hall during the anti-apartheid protest.",
+                "credit": "Photo by Lori Traikos / Courtesy of Santoro"
               }
             },
             {
               "type": "text",
-              "value": "By 1985, hip-hop had started to gain a real foothold not just on Columbia’s campus, but across the city. Rap songs started showing up more frequently on mainstream radio stations like KISS-FM, and Run-DMC dropped two albums, “King of Rock” and “Raising Hell,” which would become the first hip-hop records to receive platinum certification."
+              "value": "By 1985, hip-hop started to gain a real foothold not just on Columbia’s campus, but across the city. Rap songs started showing up more frequently on mainstream radio stations, and Run-DMC dropped two albums, “King of Rock” and “Raising Hell,” which would become the first hip-hop records to receive platinum certification."
             },
             {
               "type": "text",
-              "value": "As for Santoro, Lynch, Cohen, and their collaborators at WKCR and CTV, many of them stayed in the world of music. Grau went on to co-found her own publishing company, Spiegel & Grau, under Penguin Random House, which has published numerous hip-hop-related books including Jay-Z’s “Decoded.”<i> </i>Wentz now operates her own music licensing company, Seven Seas Music. And Cohen now works as YouTube’s global head of music. Though they have all made their mark on the music industry in various ways, their role in hip-hop’s early rise was more as supporters than as trendsetters."
+              "value": "After their time in the WKCR and CTV studios, many of Santoro’s collaborators remained in the world of music. Grau went on to co-found her own publishing company, Spiegel & Grau, under Penguin Random House, which has published numerous hip-hop-related books including Jay-Z’s “Decoded.”<i> </i>Wentz now operates her own music licensing company, Seven Seas Music, while Cohen works as YouTube’s global head of music. Though they have all made their mark on the music industry in various ways, they view their role in hip-hop’s early rise more as supporters than as trendsetters."
             },
             {
               "type": "text",
-              "value": "“Ovid had a passion for music; I had a passion for exploration,” Cohen said. “I’m not convinced we did anything in particular,”"
+              "value": "“[Santoro] had a passion for music; I had a passion for exploration,” Cohen said. “I’m not convinced we did anything in particular,”"
             },
             {
               "type": "text",
@@ -187,23 +195,23 @@
             },
             {
               "type": "text",
-              "value": "The ’90s also saw the beginning of hip-hop culture’s tread into other mediums, with rap stars like Will Smith, also known as the Fresh Prince, slowly becoming fixtures of American television screens. However, radio was still the primary agent through which hip-hop artists could connect with their growing market, and WKCR was still there to lend a hand."
+              "value": "The ’90s also saw the beginning of hip-hop culture’s access to other mediums, with rap stars such as Will Smith, also known as the Fresh Prince, slowly becoming fixtures inAmerican television programming. However, radio was still the primary agent through which hip-hop artists could connect with their growing market, and WKCR was still there to lend a hand."
             },
             {
               "type": "text",
-              "value": "WKCR introduced a dedicated hip-hop show titled “<a href=\"https://hiphopdx.com/news/id.40102/title.stretch-and-bobbito-speak-on-the-greatest-hip-hop-radio-show-ever-their-own\">We Could Do This Show</a>,” hosted by renowned hip-hop DJs Clark Kent and Richie Rich in 1986. Their show ran until 1988, soon followed by the <a href=\"https://stretchandbobbito.com/film\">most revered underground hip-hop radio shows</a> of the time."
+              "value": "In 1986 WKCR introduced a dedicated hip-hop show titled “<a href=\"https://hiphopdx.com/news/id.40102/title.stretch-and-bobbito-speak-on-the-greatest-hip-hop-radio-show-ever-their-own\">We Could Do This Show</a>,” hosted by renowned hip-hop DJs Clark Kent and Richie Rich. Their show ran until 1988, and though it was relatively unknown at the time, it was soon followed by one of the <a href=\"https://stretchandbobbito.com/film\">most revered underground hip-hop radio shows</a> of the time."
             },
             {
               "type": "text",
-              "value": "Hosted by Adrian “Stretch Armstrong” Bartos, CC ’94, and Roberto “Bobbito” Garcia, “The Stretch Armstrong and Bobbito Show” ran from 1990 to 1998 during the “Transfigured Night” time slot. It heavily featured many of the ’90s’ legendary artists before they were signed to major labels. From Jean Grae and Big L to Nas and Jay-Z, many of hip-hop’s most culturally significant figures came to the studio to grace the mic with unreleased verses and off-the-dome freestyles."
+              "value": "Hosted by Adrian “Stretch Armstrong” Bartos, CC ’94, and Roberto “Bobbito” Garcia, “The Stretch Armstrong and Bobbito Show” ran from 1990 to 1998 during the “Transfigured Night” time slot. It heavily featured many of the ‘90s’ legendary artists before they were signed to major labels. From Jean Grae and Big L to Nas and Jay-Z, many of hip-hop’s most culturally significant figures came to the studio to grace the mic with unreleased verses and off-the-dome freestyles."
             },
             {
               "type": "text",
-              "value": "Though Stretch and Bobbito were relatively unconcerned with Columbia’s musical culture, they made their mark on the city at large. The show became a proving ground for local hip-hop artists, and groups as the Wu-Tang Clan were discovered by record label A&Rs through it. Others, like the Fugees, used the show to gain increased credibility among their fanbase. Their 2015 documentary, “Stretch and Bobbito: Radio That Changed Lives,” further explores their individual stories and their impact on hip-hop music and culture."
+              "value": "Though Stretch and Bobbito were relatively unconcerned with Columbia’s musical culture, they made their mark on the city at large. The show became a proving ground for local hip-hop artists, and record labels were taking notice—Wu Tang Clan member Ol’ Dirty Bastard was signed to Elektra Records by an A&R agent who heard him on the show. Others, like the Fugees, used the show to gain increased credibility among their fanbase. Their 2015 documentary, “Stretch and Bobbito: Radio That Changed Lives,” further explores their individual stories and their impact on hip-hop music and culture."
             },
             {
               "type": "text",
-              "value": "As for its impact at Columbia, WKCR currently has two dedicated hip-hop shows: “Notes from the Underground,” hosted by Angelo Hernandez-Sias, CC ’20, and “Offbeat,” hosted by Damon Clark, CC ‘19, and Kiki Feliz. Currently, due to the COVID-19 pandemic, Offbeat is not currently on the air."
+              "value": "As for its impact at Columbia, WKCR now has two dedicated hip-hop shows: “Notes from the Underground,” hosted by Angelo Hernandez-Sias, CC ’20, and “Offbeat,” hosted by Damon Clark, CC ‘19, and Kiki Feliz, TC ‘19. Due to the COVID-19 pandemic, Offbeat is not currently on the air."
             },
             {
               "type": "text",
@@ -211,7 +219,15 @@
             },
             {
               "type": "text",
-              "value": "However, as hip-hop music and culture grew in popularity, so too did its ambitions. No longer complacent with being resigned to the underground, hip-hop would soon assert itself in the mainstream culture."
+              "value": "However, as hip-hop music and culture grew in popularity, so too did its ambitions. No longer complacent with being resigned to the underground, hip-hop music would soon begin to assert itself in the mainstream culture."
+            },
+            {
+              "type": "text",
+              "value": "<i> Correction: A previous version of the article stated that the Wu Tang Clan was signed to a record label as a result of their appearance on the Stretch and Bobbito show. In actuality, it was Ol’ Dirty Bastard, a member of the Wu Tang Clan, who was signed. Spectator regrets the error.</i>"
+            },
+            {
+              "type": "text",
+              "value": "<i>Senior staff writer Nigel Telman can be contacted at </i><a href=\"mailto:nigel.telman@columbiaspectator.com\"><i>nigel.telman@columbiaspectator.com</i></a><i>. Follow him on Twitter </i><a href=\"https://twitter.com/nigeltelman?lang=en\"><i>@NigelTelman</i></a><i>.</i>"
             }
           ],
           "page_1": [
@@ -221,15 +237,15 @@
             },
             {
               "type": "text",
-              "value": "Hip-hop’s presence in the 2000s and the 2010s was decidedly larger than that of the previous two decades. The golden age of the 1990s, with its diversity of sound and establishment of legendary artists, had accelerated the consumption of hip-hop culture across the country. No longer was radio the primary distributor of this culture; featured in everything from <a href=\"https://www.youtube.com/watch?v=B65l6COIGog\">breakfast commercials</a> and <a href=\"https://www.youtube.com/watch?v=en71gzrDarA\">cartoons</a> to <a href=\"https://www.complex.com/style/best-fashion-trends-of-early-2000s/rapper-clothing-brands\">fashion trends</a> and <a href=\"https://en.wikipedia.org/wiki/Get_Rich_or_Die_Tryin%27_(film)#:~:text=Get%20Rich%20or%20Die%20Tryin'%20is%20a%202005%20American%20hip,Locked%20and%20Loaded%20during%20production.\">movie deals</a>, hip-hop artists were quickly breaking into mainstream culture."
+              "value": "Hip-hop’s presence in the 2000s and the 2010s was decidedly larger than that of the previous two decades. The golden age of the 1990s, with its diversity of sound and establishment of legendary artists, had accelerated the consumption of hip-hop culture across the country. No longer was radio its primary distributor; featured in everything from <a href=\"https://www.youtube.com/watch?v=B65l6COIGog\">breakfast commercials</a> and <a href=\"https://www.youtube.com/watch?v=en71gzrDarA\">cartoons</a> to <a href=\"https://www.complex.com/style/best-fashion-trends-of-early-2000s/rapper-clothing-brands\">fashion trends</a> and <a href=\"https://en.wikipedia.org/wiki/Get_Rich_or_Die_Tryin%27_(film)#:~:text=Get%20Rich%20or%20Die%20Tryin'%20is%20a%202005%20American%20hip,Locked%20and%20Loaded%20during%20production.\">movie deals</a>, hip-hop culture, and its artists, were quickly breaking into mainstream culture."
             },
             {
               "type": "text",
-              "value": "Columbia began embracing this culture as well. Over the past 20 years, scores of hip-hop performers have touched down on Columbia’s campus, ranging from golden age stars like Snoop Dogg and Ghostface Killah to relatively recent artists like Kanye West and Talib Kweli. In 2001, Raw Elementz, Columbia’s oldest hip-hop dance crew, was founded. Spectator archives contains 370 mentions of hip-hop between the years 2000 and 2009 compared to 159 mentions during the 1990s and only five during the 1980s. Clearly, Columbia students were eager to embrace the culture and some were ready to engage with it directly, both in and out of the classroom."
+              "value": "Mainstream Columbia began embracing hip-hop as well. Over the past 20 years, scores of hip-hop performers have touched down on Columbia’s campus, ranging from golden age stars like Snoop Dogg and Ghostface Killah to relatively recent artists like Kanye West and Talib Kweli. In 2001, Raw Elementz, Columbia’s oldest hip-hop dance crew, was founded. Spectator archives contain 370 mentions of hip-hop between the years 2000 and 2009 compared to 159 mentions during the 1990s and only five during the 1980s. Clearly, Columbia students were eager to embrace the culture and some were ready to engage with it directly, both in and out of the classroom."
             },
             {
               "type": "text",
-              "value": "Anthony “Ace” Patterson, CC ’11, was one such student. Born in Bridgeport, Connecticut, Patterson was first introduced to hip-hop through his late aunt, who bought him a Snoop Dogg cassette tape when he was young, and he quickly gained an affinity for Snoop’s West Coast swagger."
+              "value": "Anthony “Ace” Patterson, CC ’11, was one such student. Born in Bridgeport, Connecticut, Patterson was first introduced to hip-hop through his late aunt, who bought him a Snoop Dogg cassette tape when he was young. He quickly gained an affinity for Snoop’s West Coast swagger."
             },
             {
               "type": "text",
@@ -237,7 +253,7 @@
             },
             {
               "type": "text",
-              "value": "Patterson’s affinity for hip-hop grew throughout his childhood, and by 15, he was selling mixtapes and performing at variety shows under the name Ace Tha Pyro. When he got to Columbia in 2007, he continued to pursue rapping, performing at shows across campus and traveling back home to record mixtapes with his friends. Within his first years at Columbia, he also met several people who became his musical collaborators: Mpho Brown, CC ʼ12 and a rapper from Lesotho, and producer Jon Tanners, CC ‘11. They would spend their free time planning shows, celebrating each other’s successes, and freestyle rapping together."
+              "value": "Patterson’s affinity for hip-hop grew throughout his childhood, and by 15, he was selling mixtapes and performing at variety shows under the name Ace Tha Pyro. When he entered Columbua’s freshman class in 2007, he continued to pursue rapping, performing at shows across campus and traveling back home to record mixtapes with his friends. Within his first years at Columbia, he also met several people who became his musical collaborators: Mpho Brown, CC ʼ12 and a rapper from Lesotho, and producer Jon Tanners, CC ‘11. They would spend their free time planning shows, celebrating each other’s successes, and freestyle rapping together."
             },
             {
               "type": "text",
@@ -245,18 +261,20 @@
             },
             {
               "type": "text",
-              "value": "Thus, the <a href=\"https://www.columbiaspectator.com/arts-and-entertainment/2019/10/31/the-rebirth-of-columbias-hip-hop-society-celebrates-and-builds-upon-new-yorks-musical-legacy/\">Columbia University Society of Hip-Hop</a> was born. Founded in 2009 by Patterson and Brown, the club was originally based in the Intercultural Resource Center, as it was not formally incorporated under the Activities Board at Columbia. Patterson and Brown were roommates in the building and would use the IRC lounge and any other space they could find to host freestyle rap sessions, called cyphers, for both student and non-student rappers and hip-hop fans."
+              "value": "Thus, the <a href=\"https://www.columbiaspectator.com/arts-and-entertainment/2019/10/31/the-rebirth-of-columbias-hip-hop-society-celebrates-and-builds-upon-new-yorks-musical-legacy/\">Columbia University Society of Hip-Hop</a> was born. Founded in 2009 by Patterson and Brown, the club was originally based in the Intercultural Resource Center, as it was not formally incorporated under the Activities Board at Columbia. Patterson and Brown were roommates in the IRC and would use the lounge and any other space they could find to host freestyle rap sessions, called cyphers, for both rappers and hip-hop fans."
             },
             {
               "type": "text",
-              "value": "“That’s the only free space we had because you had to book all of the other [spaces], but you had to be a real group in order to book,” Patterson said. “My homie Stefan, he lived in the Pike house, you know? And so we would go to the Pike basement and we [would] just freestyle. That for us was a CUSH session.”"
+              "value": "“That’s the only free space we had because you had to book all of the other [spaces], but you had to be a real group in order to book,” Patterson said. “My homie Stephan, he lived in the Pike house, you know? And so we would go to the Pike basement and we [would] just freestyle. That for us was a CUSH session.”"
             },
             {
               "type": "image",
               "value": {
                 "width": "auto",
                 "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/XYBEZYFOGJGDXBN2NCGBLR53YY.jpg",
-                "credit": "CUSH Board / Courtesy Photo"
+                "caption": "A packed IRC lounge hosts an explosive cypher",
+                "justify": "right",
+                "credit": "Courtesy of the CUSH Board"
               }
             },
             {
@@ -269,7 +287,7 @@
             },
             {
               "type": "text",
-              "value": "Some conversations focused on the intricacies within hip-hop culture itself, with topics ranging from female and Asian-American representation in hip-hop to the cultural intermingling that occurred between Asian and Black cultures. Many conversations centered around the role of hip-hop at Columbia, which often led to talks about diversity at Columbia more broadly."
+              "value": "Some conversations focused on the intricacies within hip-hop culture itself, with topics ranging from female representation in hip-hop to the cultural intermingling that occurred between Asian and Black cultures through the music. Many conversations centered around the role of hip-hop at Columbia, which often led to talks about diversity at Columbia more broadly."
             },
             {
               "type": "text",
@@ -281,15 +299,15 @@
             },
             {
               "type": "text",
-              "value": "The club continued to attract hip-hop fans and artists in droves. By the end of 2011, hundreds of students were packing the IRC lounges, eager to contribute to discussions or jump into cyphers alongside local Bronx and Harlem rappers. The result was a bona fide hip-hop training ground for young artists and hip-hop aficionados."
+              "value": "The club continued to attract hip-hop fans and artists in droves. By the end of 2011, hundreds of people were packing the IRC lounges, eager to contribute to discussions or jump into cyphers alongside local Bronx and Harlem rappers. The result was a bona fide hip-hop training ground for young artists and hip-hop aficionados."
             },
             {
               "type": "text",
-              "value": "The musicians that came out of CUSH were unlike any that Columbia had produced in recent years. With competitive spirits and a communal love of hip hop culture, CUSH’s rappers stuck close to the traditions, like cyphering, that proved successful for their icons. The wider campus community began to take notice—two years after its founding, three CUSH rappers, one of them Patterson himself, alongside the brass band Lucky Chops, won<a href=\"https://www.youtube.com/watch?v=8_Vo64VMOt4\"> Bacchanal’s Battle of the Bands</a> and opened the show for none other than Snoop Dogg."
+              "value": "The musicians that came out of CUSH were unlike any that Columbia had produced in recent years. With competitive spirits and a communal love of hip hop culture, CUSH’s rappers stuck close to the learning traditions, like freestyling, that proved successful for their idols. The wider campus community began to take notice—two years after its founding, three CUSH rappers, one of them Patterson himself, alongside the brass band Lucky Chops, won<a href=\"https://www.youtube.com/watch?v=8_Vo64VMOt4\"> Bacchanal’s Battle of the Bands</a> and opened the show for none other than Snoop Dogg."
             },
             {
               "type": "text",
-              "value": "As students immersed themselves in hip-hop discussions and performances through the club, a new avenue for engaging with the genre emerged—a small music elective course taught by professor Ellie Hisama aimed to introduce students to an entirely new way of approaching the genre."
+              "value": "As students immersed themselves in hip-hop discussions and performances through the club, a new avenue for engaging with the genre emerged—a small music elective course, taught by professor Ellie Hisama, aimed to introduce students to an entirely new way of approaching the genre."
             },
             {
               "type": "text",
@@ -297,7 +315,7 @@
             },
             {
               "type": "text",
-              "value": "“I decided this is really a course that would be appealing to undergraduate students,” Hisama said. “So I created this course Listening to Hip-Hop, which I’ve taught five times since 2007. It’s about sounds and context and the people who make the sounds. [But] the idea behind the class is to have a course which is based in music.”"
+              "value": "“I decided this is really a course that would be appealing to undergraduate students,” Hisama said. “So I created this course “Listening to Hip-Hop”, which I’ve taught five times since 2007. It’s about sounds and context and the people who make the sounds. [But] the idea behind the class is to have a course which is based in music.”"
             },
             {
               "type": "text",
@@ -309,11 +327,11 @@
             },
             {
               "type": "text",
-              "value": "“I used to start the class with this Wall Street Journal piece where this guy, he’s just outraged that people take hip-hop seriously and would teach it at universities,” she explained. “I start with that, because they said hip-hop has made it through the doors of Columbia in this course, and you are here.”"
+              "value": "“I used to start the class with this Wall Street Journal piece where this guy, he’s just outraged that people take hip-hop seriously and would teach it at universities,” she explained. “I start with that [to emphasize that] hip-hop has made it through the doors of Columbia in this course, and you are here.”"
             },
             {
               "type": "text",
-              "value": "The class’ emergence came at the perfect moment for hip-hop fans at Columbia. Many CUSH members have taken Hisama’s class over the years, and some say that it has augmented their engagement with the music."
+              "value": "The class’ launch came at the perfect moment for hip-hop fans at Columbia. Many CUSH members had the opportunity to take  Hisama’s class over the years, and some say that it has augmented their engagement with the music."
             },
             {
               "type": "text",
@@ -325,7 +343,7 @@
             },
             {
               "type": "text",
-              "value": "Between CUSH and Hisama’s class, it appears that hip-hop has a strong future on Columbia’s undergraduate campus. Current CUSH board members Payton Johnson, CC ʼ21;, Nick Rubertone, CC ʼ21;, and Ty Stinson, CC ʼ21, are developing various programs that span post-graduation, including an archiving project in conjunction with Professor Hisama and the Rare Books and Manuscript Library. CUSH members have also worked with WKCR to produce the hip-hop radio show “Notes from the Underground,” airing alongside the current reigning hip-hop show Offbeat, hosted by Damon Clark, CC ʼ19, and Kiki Feliz. They will continue working with Patterson, who is currently a Billboard-charting rapper and YouTube global program manager for their Creator & Artist Development team, to continue the CUSH lineage."
+              "value": "Between CUSH and Hisama’s class, it appears that hip-hop has a strong future on Columbia’s undergraduate campus. Current CUSH board members Payton Johnson, CC ʼ21, Nick Rubertone, CC ʼ21, and Ty Stinson, CC ʼ21, are developing various programs that span post-graduation, including an archiving project in conjunction with Professor Hisama and the Rare Books and Manuscript Library. CUSH members have also worked with WKCR to produce the hip-hop radio show “Notes from the Underground,” airing alongside the current reigning hip-hop show Offbeat, hosted by Damon Clark, CC ʼ19, and Kiki Feliz, TC ‘19. They will continue working with Patterson, who is currently a Billboard-charting rapper and YouTube global program manager for their Creator & Artist Development team, to continue the CUSH lineage."
             },
             {
               "type": "text",
@@ -333,11 +351,15 @@
             },
             {
               "type": "text",
-              "value": "<a href=\"https://music.columbia.edu/bios/kevin-holt\">Kevin Holt,</a> GSAS ‘11 and a student of Hisama’s graduate seminar, contributed an essay on crunk music to the Oxford Handbook of Hip-Hop, while another student, Kathryn Radishofski, GSAS ‘18 and a doctoral candidate in ethnomusicology, is currently writing a dissertation on Biggie Smalls graffiti memorials in Brooklyn. Hisama herself has published numerous papers on hip-hop, including a number of her and her students’ works in the book “Critical Minded: New Approaches to Hip Hop Studies.” However, she does hope that hip-hop scholars will proceed with caution."
+              "value": "<a href=\"https://music.columbia.edu/bios/kevin-holt\">Kevin Holt,</a> GSAS ‘11 and a past student of Hisama’s graduate seminar, contributed an essay on crunk music to the Oxford Handbook of Hip-Hop, while another of her past students, Kathryn Radishofski, GSAS ‘18 and a doctoral candidate in ethnomusicology, is currently writing a dissertation on Biggie Smalls graffiti memorials in Brooklyn. Hisama herself has published numerous papers on hip-hop, including a number of her and her students’ works in the book “Critical Minded: New Approaches to Hip Hop Studies.” However, she does hope that hip-hop scholars will proceed with caution."
             },
             {
               "type": "text",
               "value": "“I really hope that people [won’t] make it that ‘I have the right to say whatever I want about this music’ without regard to the people who originated the music and the people who are sustaining the music,” she said."
+            },
+            {
+              "type": "text",
+              "value": "<i>Senior staff writer Nigel Telman can be contacted at </i><a href=\"mailto:nigel.telman@columbiaspectator.com\"><i>nigel.telman@columbiaspectator.com</i></a><i>. Follow him on Twitter </i><a href=\"https://twitter.com/nigeltelman?lang=en\"><i>@NigelTelman</i></a><i>.</i>"
             }
           ]
         },

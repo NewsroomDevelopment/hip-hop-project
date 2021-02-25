@@ -1,11 +1,11 @@
 @import "styles/spectate";
 
 // Uncomment the following line before publishing a News story
-// @import "styles/news-ellipsis";
+@import "styles/news-ellipsis";
 
 #body-page-container.body-page-0{
     .cover-hed header {
-        transform: translateY(-120%);
+        transform: translateY(-150%);
     }
 }
 
@@ -35,13 +35,17 @@
 
     #body-page-container.body-page-0{
         .cover-hed header {
-            transform: translateY(-150%) !important;
+            transform: translateY(-130%) !important;
         }
     }
 
     #body-page-container.body-page-1 {
         .cover-hed header {
-            transform: translateY(-120%) !important;
+            transform: translateY(-150%) !important;
         }
     }
+}
+
+.right {
+    text-align:right;
 }
